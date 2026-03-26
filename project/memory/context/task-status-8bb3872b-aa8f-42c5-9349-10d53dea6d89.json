@@ -5,8 +5,8 @@
   "status": "done",
   "priority": "high",
   "description": "Record Paul's salary and bonus, Margaret's part-time nursing income, and rental property cash flow in the client-profile section.",
-  "completion_summary": "Task marked done",
-  "pr_url": null,
+  "completion_summary": "Task marked done — PR: https://github.com/org/repo/pull/999",
+  "pr_url": "https://github.com/org/repo/pull/999",
   "pr_doc": null,
-  "updated_at": "2026-03-26T19:59:35.801Z"
+  "updated_at": "2026-03-26T20:01:57.160Z"
 }
