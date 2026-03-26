@@ -5,8 +5,17 @@
   "status": "done",
   "priority": "high",
   "description": "Record Paul's salary and bonus, Margaret's part-time nursing income, and rental property cash flow in the client-profile section.",
-  "completion_summary": "Task marked done — PR: https://github.com/org/repo/pull/999",
-  "pr_url": "https://github.com/org/repo/pull/999",
-  "pr_doc": null,
-  "updated_at": "2026-03-26T20:01:57.160Z"
+  "completion_summary": "Task marked done — PR: https://github.com/sdahiyat/77/pull/42",
+  "pr_url": "https://github.com/sdahiyat/77/pull/42",
+  "pr_doc": {
+    "overview": "Test PR doc for WI-2 validation",
+    "files_changed": [
+      {
+        "path": "lib/test.ts",
+        "summary": "test"
+      }
+    ],
+    "fallback_text": "fetchPrDoc end-to-end test"
+  },
+  "updated_at": "2026-03-26T20:13:17.643Z"
 }
