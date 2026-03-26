@@ -1,0 +1,5 @@
+{
+  "overview": "Test PR doc for WI-2 validation",
+  "files_changed": [{ "path": "lib/test.ts", "summary": "test" }],
+  "fallback_text": "fetchPrDoc end-to-end test"
+}
