@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": "12",
+  "title": "Model Social Security claiming strategies for Paul and Margaret",
+  "status": "done",
+  "priority": "high",
+  "description": "Compare filing scenarios (62 vs. FRA vs. 70) for both clients and recommend optimal claiming ages in the analysis section.",
+  "completion_summary": "Task marked done — PR: https://github.com/org/repo/pull/1",
+  "pr_url": "https://github.com/org/repo/pull/1",
+  "pr_doc": null,
+  "updated_at": "2026-03-30T22:17:05.646Z"
+}
