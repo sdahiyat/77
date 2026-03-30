@@ -5,8 +5,20 @@
   "status": "done",
   "priority": "high",
   "description": "Compare filing scenarios (62 vs. FRA vs. 70) for both clients and recommend optimal claiming ages in the analysis section.",
-  "completion_summary": "Task marked done — PR: https://github.com/org/repo/pull/1",
-  "pr_url": "https://github.com/org/repo/pull/1",
-  "pr_doc": null,
-  "updated_at": "2026-03-30T22:17:05.646Z"
+  "completion_summary": "Task marked done — PR: https://github.com/sdahiyat/77/pull/1",
+  "pr_url": "https://github.com/sdahiyat/77/pull/1",
+  "pr_doc": {
+    "overview": "Test PR doc for WI-2 validation in IFP",
+    "summary_json": {
+      "route": "/api/tasks/[id]"
+    },
+    "files_changed": [
+      {
+        "path": "lib/memoryWriter.ts",
+        "summary": "Added enrichTaskStatusFile"
+      }
+    ],
+    "fallback_text": "This is a test PR doc to verify fetchPrDoc works end-to-end in IFP."
+  },
+  "updated_at": "2026-03-30T22:30:27.675Z"
 }
