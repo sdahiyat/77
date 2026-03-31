@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
   "task_number": 2,
-  "title": "Gap Analysis & Missing Information Tracking",
+  "title": "Gap Analysis",
   "status": "pending",
-  "priority": "high",
-  "description": "Identify and document all data gaps that block or degrade downstream analysis quality in the missing-information section. Known gaps include: absent Social Security benefit statements for both Paul and Margaret, unknown brokerage cost basis for taxable account, unclear Boeing pension details from Paul's 2001-2009 tenure (defined benefit vs rolled 401k?), absence of estate documents (wills, POA, trust status). Additionally identify: healthcare bridge cost gap (Paul's employer coverage ends at 63, Medicare at 65), ambiguity on whether $12,000/month target is inflation-adjusted, and whether target includes or excludes rental income. For each gap, document: what is missing, why it matters, what analysis is blocked or degraded, and recommended client action to resolve.",
+  "priority": "medium",
+  "description": "",
   "completion_summary": null,
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T16:54:06.064Z"
+  "updated_at": "2026-03-31T22:39:47.411Z"
 }

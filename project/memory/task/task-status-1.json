@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
   "task_number": 1,
-  "title": "Client Data Intake & Profile Construction",
+  "title": "Intake + Extraction",
   "status": "pending",
-  "priority": "high",
-  "description": "Extract and structure all confirmed client facts for Paul and Margaret Chen into the canonical client-profile section. This includes: income sources (Paul's $210k salary + $25k bonus, Margaret's $48k part-time salary, $2,400/mo net rental income from Glendale condo), complete asset inventory (Paul's 401k $1.24M at Fidelity 80/20, Margaret's 401k $310k at Vanguard TDF 2030, Paul's Roth IRA $88k, taxable brokerage $420k, primary residence $1.65M, rental condo $580k), liabilities (primary mortgage $310k at 3.1% fixed with 18 years remaining), insurance coverage inventory and gaps (Paul's 2x employer life, no private policies, no LTC for either spouse), and retirement timeline targets (Paul 63, Margaret 62, $12,000/mo after-tax goal). Out of scope: analysis or recommendations—this task is purely data extraction and structuring.",
+  "priority": "medium",
+  "description": "",
   "completion_summary": null,
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T16:54:02.432Z"
+  "updated_at": "2026-03-31T22:39:46.928Z"
 }
