@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
-  "task_number": 7,
+  "task_number": "7",
   "title": "Long-Term Care Planning & Insurance Evaluation",
-  "status": "pending",
+  "status": "done",
   "priority": "medium",
   "description": "Evaluate LTC options and develop recommendations given Margaret's family Alzheimer's history in the recommendations section. Analysis must include: risk assessment for Margaret (elevated risk due to mother's Alzheimer's), risk assessment for Paul (standard actuarial risk), LTC insurance product evaluation (traditional vs hybrid policies), premium affordability analysis against retirement income projections, self-insurance alternative modeling (asset reserve approach), and recommendation with rationale. Consider timing—premiums increase with age, and Margaret is currently 55.",
-  "completion_summary": null,
+  "completion_summary": "Task marked done",
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T16:54:08.899Z"
+  "updated_at": "2026-03-31T18:10:25.687Z"
 }
