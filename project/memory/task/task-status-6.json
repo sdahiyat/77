@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
-  "task_number": 6,
+  "task_number": "6",
   "title": "Tax Optimization Strategy: RSU Timing & Roth Conversion Ladder",
-  "status": "pending",
+  "status": "done",
   "priority": "high",
   "description": "Develop coordinated RSU timing and Roth conversion ladder recommendations in the recommendations section. Must address: RSU vesting and sale sequencing to manage AGI during Paul's remaining working years (ages 58-63), Roth conversion ladder plan during the 63-73 window (10 years pre-RMD), specific year-by-year conversion amount recommendations based on bracket thresholds, coordination to avoid AGI stacking conflicts between RSU vesting years and conversion years, RMD minimization strategy starting at age 73, and integration with rental income and any capital gains realizations. Must validate that RSU timing and Roth conversion recommendations do not conflict in overlapping years.",
-  "completion_summary": null,
+  "completion_summary": "Task marked done",
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T16:54:08.378Z"
+  "updated_at": "2026-03-31T18:10:23.074Z"
 }
