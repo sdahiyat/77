@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 5,
+  "title": "Retirement Income Modeling & Bridge Strategy",
+  "status": "pending",
+  "priority": "high",
+  "description": "Project whether the $12,000/month after-tax income target is achievable and develop the income bridge strategy from retirement to Social Security in the analysis section. Model must include: asset drawdown sequencing across account types (taxable first vs traditional vs Roth), income floor establishment using known assets, bridge strategy from Paul's retirement at 63 to Social Security eligibility, sensitivity analysis showing outcomes with/without Social Security and with/without Boeing pension, rental income integration ($2,400/month as stable income floor), and healthcare bridge cost impact (2 years for Paul, potentially 7 for Margaret until Medicare). Must explicitly caveat that optimal Social Security claiming strategy cannot be determined without benefit statements.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-31T16:54:07.555Z"
+}

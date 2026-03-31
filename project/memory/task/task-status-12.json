@@ -1,24 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
-  "task_number": "12",
-  "title": "Model Social Security claiming strategies for Paul and Margaret",
-  "status": "done",
+  "task_number": 12,
+  "title": "Human Approval & PDF Rendering",
+  "status": "pending",
   "priority": "high",
-  "description": "Compare filing scenarios (62 vs. FRA vs. 70) for both clients and recommend optimal claiming ages in the analysis section.",
-  "completion_summary": "Task marked done — PR: https://github.com/sdahiyat/77/pull/1",
-  "pr_url": "https://github.com/sdahiyat/77/pull/1",
-  "pr_doc": {
-    "overview": "Test PR doc for WI-2 validation in IFP",
-    "summary_json": {
-      "route": "/api/tasks/[id]"
-    },
-    "files_changed": [
-      {
-        "path": "lib/memoryWriter.ts",
-        "summary": "Added enrichTaskStatusFile"
-      }
-    ],
-    "fallback_text": "This is a test PR doc to verify fetchPrDoc works end-to-end in IFP."
-  },
-  "updated_at": "2026-03-30T22:32:52.106Z"
+  "description": "Present the completed Chen financial plan to the supervising advisor for review and approval, then render the final deliverable PDF. Approval workflow includes: advisor review of complete document, sign-off on recommendations, and any final revisions. PDF output must include: all sections (client-profile through analysis), open items disclosure page listing all unresolved gaps (SS statements, Boeing pension, cost basis, estate docs), source attribution page for all public facts used, and advisor signature/approval date. Out of scope: substantive analysis changes—those require cycling back to earlier tasks.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-31T16:54:11.008Z"
 }

@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 10,
+  "title": "Plan Composition & Integration",
+  "status": "pending",
+  "priority": "high",
+  "description": "Assemble all analysis outputs into a cohesive, unified recommendations document in the recommendations section. This is an integration task—no new analysis, but synthesis of Tasks 5-9 outputs into a coherent narrative. Must include: executive summary of key recommendations, prioritized action items with timeline, integration of all feature areas (retirement income, tax optimization, LTC, estate, healthcare), consistent caveating for all missing data items throughout, cross-reference validation (ensure recommendations don't conflict), and clear section structure matching document template (client-profile, missing-information, assumptions, tax-observations, recommendations, analysis).",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-31T16:54:10.273Z"
+}

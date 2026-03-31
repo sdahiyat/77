@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 8,
+  "title": "Estate & Legacy Planning: Rental Succession and Gifting Strategy",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Develop rental property succession plan and legacy gifting strategy in the recommendations section. Must address: rental property (Glendale condo) succession to children via step-up basis at death, analysis of holding vs gifting the property now, $50,000 legacy gift strategy for each child within 5 years ($100k total), gift tax exclusion utilization (annual exclusion vs lifetime exemption), cash flow impact of $100k gifting on pre-retirement finances, and flag missing estate documents (wills, POA, trust) with recommendations to establish. Out of scope: detailed estate document drafting—focus on strategy and flagging need for attorney engagement.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-31T16:54:09.281Z"
+}

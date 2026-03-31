@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 4,
+  "title": "Client-Specific Tax Interpretation & Projection",
+  "status": "pending",
+  "priority": "high",
+  "description": "Apply confirmed public tax rules to the Chen household's specific situation in the tax-observations section. Analysis must cover: RSU vesting AGI impact modeling (~$60k/year for 3 years on top of $285k base AGI), Roth conversion ladder feasibility analysis given combined 41.3% marginal rate (32% fed + 9.3% CA) during working years vs projected lower rates post-retirement, rental income tax treatment for Glendale condo ($28,800/year net) including depreciation considerations, projected bracket exposure at retirement when salary ceases but RSU vesting may continue, and capital gains implications for taxable brokerage (noting cost basis gap). Explicitly caveat analyses affected by missing data.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-31T16:54:07.148Z"
+}
