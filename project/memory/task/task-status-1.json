@@ -3,10 +3,10 @@
   "task_number": 1,
   "title": "Intake + Extraction",
   "status": "pending",
-  "priority": "medium",
+  "priority": "high",
   "description": "",
   "completion_summary": null,
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T22:44:23.466Z"
+  "updated_at": "2026-03-31T23:44:45.914Z"
 }
