@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
-  "task_number": 3,
+  "task_number": "3",
   "title": "Public-Fact Research & Reference Data Collection",
-  "status": "pending",
+  "status": "done",
   "priority": "medium",
   "description": "Gather and record current public-domain reference data needed for the Chen engagement in the assumptions-and-disclosures section. Required research areas: 2024-2025 federal tax brackets (especially 32% threshold for MFJ), California state tax brackets (9.3% marginal threshold), RSU taxation rules (ordinary income treatment, withholding requirements), SECURE 2.0 RMD age thresholds (73 for those born 1951-1959), LTC insurance average premium benchmarks for couples in their mid-50s, step-up basis rules under IRC 1014 for inherited real estate, current gift tax annual exclusion limits, and ACA/COBRA premium estimates for healthcare bridge planning. Each fact must include source citation and effective date.",
-  "completion_summary": null,
+  "completion_summary": "Task marked done",
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T16:54:06.649Z"
+  "updated_at": "2026-03-31T18:08:53.733Z"
 }
