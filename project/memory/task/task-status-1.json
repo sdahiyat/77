@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
-  "task_number": 1,
+  "task_number": "1",
   "title": "Intake + Extraction",
-  "status": "pending",
+  "status": "done",
   "priority": "high",
-  "description": "",
-  "completion_summary": null,
-  "pr_url": null,
+  "description": "Extract and structure all confirmed client facts for Paul and Margaret Chen into the client-profile section, including income sources (Paul's $210k salary + ~$25k bonus, Margaret's $48k part-time nursing income), asset inventory (401k balances, Roth IRA, taxable brokerage, primary residence, Glendale rental), liabilities (3.1% mortgage at $310k), and stated retirement targets (Paul 63, Margaret 62, $12k/month after-tax).",
+  "completion_summary": "Task marked done — PR: https://github.com/sdahiyat/77/pull/1",
+  "pr_url": "https://github.com/sdahiyat/77/pull/1",
   "pr_doc": null,
-  "updated_at": "2026-03-31T23:44:45.914Z"
+  "updated_at": "2026-04-01T00:43:12.484Z"
 }
