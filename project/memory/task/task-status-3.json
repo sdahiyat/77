@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
   "task_number": 3,
-  "title": "Public-Fact Research",
+  "title": "Public Fact Research & Regulatory Data Collection",
   "status": "pending",
   "priority": "medium",
   "description": "",
   "completion_summary": null,
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T23:44:46.712Z"
+  "updated_at": "2026-04-01T00:51:37.035Z"
 }

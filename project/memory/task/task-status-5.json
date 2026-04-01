@@ -1,12 +1,12 @@
 {
   "schema": "cofabric.task_status.v1",
   "task_number": 5,
-  "title": "Plan Composition",
+  "title": "Retirement Income Modeling & Withdrawal Strategy",
   "status": "pending",
   "priority": "high",
   "description": "",
   "completion_summary": null,
   "pr_url": null,
   "pr_doc": null,
-  "updated_at": "2026-03-31T23:44:47.546Z"
+  "updated_at": "2026-04-01T00:51:38.017Z"
 }
